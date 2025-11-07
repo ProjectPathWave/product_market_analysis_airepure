@@ -1,5 +1,7 @@
-# product_market_analysis_airepure
-Generated product market analysis reports for a Air Purifier Company to help them figure out if there is market for their air purifier product before they do their further R&amp;D process and launch their product in the market.
+# product_market_analysis_airpure
+
+Performed a Product Market Analysis for an Air Purifier Company to help them figure out 
+if there is market for their air purifier product before they do their further R&amp;D process and launch their product in the market.
 
 
 <img width="503" height="277" alt="a1" src="https://github.com/user-attachments/assets/67887004-45fb-423d-ab4c-f2513bdbc4bb" />
